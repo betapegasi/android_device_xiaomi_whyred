@@ -1,12 +1,6 @@
-Copyright (C) 2018-2019 The PixelExperience Open Source Project
+REDMI NOTE 6 PRO #TULIP
 
-The Redmi Note 5 (codenamed _"whyred"_) are high-end mid-range smartphones from Xiaomi.
-
-Xiaomi Redmi Note 5 was announced and released in March 2018.
-
-## Device specifications
-
-| Device       | Xiaomi Redmi Note 5                         |
+| Device       | Xiaomi Redmi Note 6 Pro                         |
 | -----------: | :---------------------------------------------- |
 | SoC          | Qualcomm SDM660 Snapdragon 636                  |
 | CPU          | 8x Qualcomm® Kryo™ 260 up to 1.8GHz             |
@@ -19,8 +13,5 @@ Xiaomi Redmi Note 5 was announced and released in March 2018.
 | Display      | 2160 x 1080 (18:9), 5.99 inch                   |
 | Rear camera 1 | 12MP, 1.25-micron pixels, f/2.2 Dual LED flash |
 | Rear camera 2 | 5MP, 1.12-micron pixels, f/2.0                |
-| Front camera | 20MP, 1-micron pixels, f/2.2 1080p 30 fps video, Selfie-light|
-
-## Device picture
-
-![Xiaomi Redmi Note 5 Pro](https://www1-lw.xda-cdn.com/files/2018/02/Xiaomi-Redmi-Note-5-and-Redmi-Note-5-Pro-Forums-now-Open.png)
+| Front camera 1| 20MP, 1-micron pixels, f/2.2 1080p 30 fps video, Selfie-light|
+| Front camera 2| 2MP|

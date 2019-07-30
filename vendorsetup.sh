@@ -1,2 +1,2 @@
-add_lunch_combo arrow_whyred-userdebug
+add_lunch_combo arrow_tulip-userdebug
 
